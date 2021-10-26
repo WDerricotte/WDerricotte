@@ -1,7 +1,7 @@
-<h2> Hi, I'm Wallace Derricotte! <img src="https://media.giphy.com/media/3o7btLYqcZhUb2GP16/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>Applications Scientist at <a href="https://www.entos.ai">Entos</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Former Chemistry Professor at <a href="https://www.morehouse.edu">Morehouse College</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</br>Creating Educational Chemistry Content on <a href="https://www.youtube.com/channel/UCziFyFBmCSc1yUwkRWAOWEQ">YouTube</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<h2> <img src="https://media.giphy.com/media/YSNTUguOMvWiIY4TQx/giphy.gif" width="50"> Hi, I'm Wallace Derricotte! </h2>
+<img align='right' src="https://media.giphy.com/media/fAnIqRsUfIHFwYweMl/giphy.gif" width="230">
+<p><em>Applications Scientist at <a href="https://www.entos.ai">Entos</a><img src="https://media.giphy.com/media/37oQRyajqjaeBJ3lC6/giphy.gif" width="50"></br>Former Chemistry Professor at <a href="https://www.morehouse.edu">Morehouse College</a><img src="https://media.giphy.com/media/ipwZcblnwYdK2LxyRo/giphy.gif" width="50"> 
+</br>Creating Educational Chemistry Content on <a href="https://www.youtube.com/channel/UCziFyFBmCSc1yUwkRWAOWEQ">YouTube</a><img src="https://media.giphy.com/media/M8p2cBCPueRxIaiQdb/giphy.gif" width="50"> 
 </em></p>
 
 [![Twitter: ProfDerricotte](https://img.shields.io/twitter/follow/ProfDerricotte?style=social)](https://twitter.com/ProfDerricotte)
